@@ -17,3 +17,7 @@ junção de branch
 # 5 - O que é pull ?
 
 puxa informação do ropositorio remoto para o local
+
+# 6 - O que é branch
+
+são ramificação do repositorio
