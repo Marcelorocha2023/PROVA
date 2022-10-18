@@ -21,3 +21,7 @@ puxa informação do ropositorio remoto para o local
 # 6 - O que é branch
 
 são ramificação do repositorio
+
+8 - O que é pull request?
+
+Solitação de alteração
