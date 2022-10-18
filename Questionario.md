@@ -13,3 +13,7 @@ empacotamento das alterações
 # 4 - O que é merge ?
 
 junção de branch
+
+# 5 - O que é pull ?
+
+puxa informação do ropositorio remoto para o local
