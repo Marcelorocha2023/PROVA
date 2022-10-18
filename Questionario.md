@@ -9,3 +9,7 @@ empacotamento das alterações
 # 3 - O que é um repositorio ?
 
 é a pasta do projeto onde os arquivos são guardados
+
+# 4 - O que é merge ?
+
+junção de branch
