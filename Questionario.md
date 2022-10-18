@@ -25,3 +25,7 @@ são ramificação do repositorio
 8 - O que é pull request?
 
 Solitação de alteração
+
+9 - O que é fork?
+
+copia de um repositorio de terceiro
