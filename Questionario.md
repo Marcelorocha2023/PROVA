@@ -29,3 +29,7 @@ Solitação de alteração
 9 - O que é fork?
 
 copia de um repositorio de terceiro
+
+10 - O que é um VCS?
+
+sofware de controle de versão
